@@ -15,7 +15,7 @@ SECRET_KEY = '2z=n8zf#86ix3m0zd_tx#dthccmmqrlh3762dnk@mmo0%nj^av'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['loyish.herokuapp.com',]
 
 
 # Application definition
